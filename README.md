@@ -1,6 +1,6 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://static.wixstatic.com/media/bac040_594435869f7b44ff96b840309eee6fb3~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bac040_594435869f7b44ff96b840309eee6fb3~mv2.png" alt="MAS Logo"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">Microsoft Activation Scripts (MAS) - SUPER PACK</h1>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
@@ -8,7 +8,7 @@
   
 ## How to Activate Windows / Office / Extended Updates (ESU)?
 
-### Method 1 - PowerShell ❤️
+### Method 1 - PowerShell ️
 
 1. **Open PowerShell**  
    Click the **Start Menu**, type `PowerShell`, then open it.
@@ -35,8 +35,7 @@
 ---
 
 ### Method 2 - Traditional (Windows Vista and later)
-
-1.   Download the script: [**MAS_AIO.cmd**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true) or the [full ZIP](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip).
+1.   Download the script: Downlod The Zip File and Extract any One Your Location and Run The Main Script
 2.   Run the file named `MAS_AIO.cmd`.
 3.   You will see the activation options. Follow the on-screen instructions.
 4.   That's all.
@@ -44,14 +43,13 @@
 ---
 
 > [!TIP]
-> - Some ISPs/DNS block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser.  
+> - Some ISPs/DNS block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)] in your browser.  
 > - **Having trouble**❓Visit our [troubleshooting page](https://massgrave.dev/troubleshoot) or raise an issue on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues).
 
 ---
 
-- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**, check [here](https://massgrave.dev/unsupported_products_activation).
-- To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
-
+- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**
+- To run the scripts in unattended mode,
 ---
 
 > [!NOTE]
@@ -64,12 +62,10 @@
 
 ```
 Latest Version: 3.9
-Release date: 19-Nov-2025
+Release date: 19-11-2025
 ```
 
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+
 
 <div align="center">
   
@@ -88,24 +84,5 @@ Release date: 19-Nov-2025
 
 </div>
 
-[1.1]: https://massgrave.dev/img/logo_github.png (GitHub)
-[1.2]: https://massgrave.dev/img/logo_azuredevops.png (AzureDevOps)
-[1.3]: https://massgrave.dev/img/logo_gitea.png (Self-hosted Git)
-
-[1.4]: https://massgrave.dev/img/logo_discord.png (Chat with us without signup)
-[1.5]: https://massgrave.dev/img/logo_reddit.png (Reddit)
-[1.6]: https://massgrave.dev/img/logo_bluesky.png (Bluesky)
-[1.7]: https://massgrave.dev/img/logo_x.png (Twitter)
-
-[1]: https://github.com/massgravel/Microsoft-Activation-Scripts
-[2]: https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts
-[3]: https://git.activated.win/massgrave/Microsoft-Activation-Scripts
-[4]: https://discord.gg/j2yFsV5ZVC
-[5]: https://www.reddit.com/r/MAS_Activator
-[6]: https://bsky.app/profile/massgrave.dev
-[7]: https://twitter.com/massgravel
-
----
-
-<p align="center">Made with Love ❤️</p>
+<p align="center">Made with Love Adarsh Varma</p>
 
