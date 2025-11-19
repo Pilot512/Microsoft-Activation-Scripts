@@ -65,24 +65,5 @@ Latest Version: 3.9
 Release date: 19-11-2025
 ```
 
-
-
-<div align="center">
-  
-[![1.1]][1]
-[![1.2]][2]
-[![1.3]][3]
-
-</div>
-
-<div align="center">
-  
-[![1.4]][4]
-[![1.5]][5]
-[![1.6]][6]
-[![1.7]][7]
-
-</div>
-
 <p align="center">Made with Love Adarsh Varma</p>
 
