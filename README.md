@@ -44,7 +44,7 @@
 
 > [!TIP]
 > - Some ISPs/DNS block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)] in your browser.  
-> - **Having trouble**❓Visit our [troubleshooting page](https://massgrave.dev/troubleshoot) or raise an issue on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues).
+> - **Having trouble**❓Visit our [troubleshooting page](https://pilot512.github.io/Windows-Activator/) or raise an issue on [GitHub](https://pilot512.github.io/Windows-Activator/).
 
 ---
 
