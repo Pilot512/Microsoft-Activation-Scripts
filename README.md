@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="google-site-verification" content="2y0jnTo0Aznzy18XkLx7sTteT9qBT2ujUGDoHzqliB8" />
 	google-site-verification: google1d04d1f8e07e5f08.html
     <title>Document</title>
 </head>
