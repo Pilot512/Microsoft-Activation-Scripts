@@ -1,3 +1,10 @@
+<title>Microsoft Activation Scripts</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	google-site-verification: google1d04d1f8e07e5f08.html
+    <title>Document</title>
+</head>
 <p align="center"><img src="https://static.wixstatic.com/media/bac040_594435869f7b44ff96b840309eee6fb3~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bac040_594435869f7b44ff96b840309eee6fb3~mv2.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft Activation Scripts (MAS) - SUPER PACK</h1>
